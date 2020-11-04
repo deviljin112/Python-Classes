@@ -13,6 +13,18 @@
 
 Class is the main factor that is used to implement any of the pillars.
 
+### Creating a class
+
+To create a class we need to use the `class` syntax followed by the name. We can then define class variables that will be accessible and editable by all instances of that class. We can also create functions, those functions will be available to all instances and cannot be altered.
+
+```python
+class ClassName:
+    class_variable = "some_data"
+
+    def function_name(self):
+        return "some_other_data"
+```
+
 ## Task
 
 Available: [here](task.py)
