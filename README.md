@@ -5,9 +5,14 @@
 ### Four Pillars of OOP
 
 - Inheritance
+  - Eliminates redundant code
 - Encapsulation
+  - Reduce complexity and increase reusability
 - Abstraction
+  - Reduce complexity and isolate impact of change
 - Polymorphism
+  - Poly (many) morphism (form) Refactor code or case statements
+  - It allows us to change behaviours and/or attributes/variables
 
 ## Class
 
